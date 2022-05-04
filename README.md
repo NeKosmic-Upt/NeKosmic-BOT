@@ -13,7 +13,7 @@
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/NeKosmic-OFC/NeKosmic-BOT/blob/master/config.js)
 
 ### `Video tutorial para instalar el Bot`
-<a href="https://www.youtube.com/channel/UCCT6XM2S-QyV5d_WxE_EHcQ"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://youtu.be/hMqi14JfgaM"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
 > Dar click en la imagen para redireccionarlos a YouTube
 
 ### `INSTALACION TERMUX`
@@ -24,7 +24,7 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/NeKosmic-NK/NeKosmic-BOT
+> git clone https://github.com/NeKosmic-Upt/NeKosmic-BOT
 > cd NeKosmic-BOT
 > npm install
 > npm install -g npm@8.5.4
@@ -55,6 +55,7 @@ el comando #actualizar para que se actualicen los datos
 de esa cantidad el Bot empieza a ir 
 excesivamente lento (depende del WhatsApp igual)
 
+> Aconsejable, no clonar este repositorio ya que no reciviras nuevas actualizaciones 7w7
 > El Bot aun no es compartible con la version de multi device 
 de WhatsApp, por lo que sugiero usar este WhatsApp:
 ```
