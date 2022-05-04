@@ -1,4 +1,5 @@
 # **👑𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌👑**
+### `No clonar este repositorio ya que no reciviras nuevas actualizaciones 7w7`
 ### `Si necesitas ayuda mandame mensaje`
 <a href="http://wa.me/34623442554" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 > NO BOT
@@ -56,6 +57,7 @@ de esa cantidad el Bot empieza a ir
 excesivamente lento (depende del WhatsApp igual)
 
 > Aconsejable, no clonar este repositorio ya que no reciviras nuevas actualizaciones 7w7
+
 > El Bot aun no es compartible con la version de multi device 
 de WhatsApp, por lo que sugiero usar este WhatsApp:
 ```
